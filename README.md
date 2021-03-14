@@ -44,7 +44,7 @@
 
 - [*Hastie T., Tibshirani R., Friedman J.* "The Elements of Statistical Learning: Data Mining, Inference, and Prediction, Second Edition"](https://web.stanford.edu/~hastie/Papers/ESLII.pdf) / T. Hastie, R. Tibshirani, J. Friedman, 2-е изд., New York: Springer-Verlag, 2009.
 
-  ​	Первод на русский язык: ([Фридман Дж., Хасти Т., Тибширани Р. "Основы статистического обучения"](http://www.combook.ru/product/11965387/))
+  ​	Перевод на русский язык: ([Фридман Дж., Хасти Т., Тибширани Р. "Основы статистического обучения"](http://www.combook.ru/product/11965387/))
 
 - *Bishop C.* "Pattern Recognition and Machine Learning" / C. Bishop, New York: Springer-Verlag, 2006. [Доступна для легального скачивания.](http://users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20And%20Machine%20Learning%20-%20Springer%20%202006.pdf)
 
