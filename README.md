@@ -20,6 +20,7 @@
 | Лекция 1 | 04.03.2021 | Вводная лекция.<br />От линейных моделей к нейронным сетям. Часть 1 | [материалы](https://github.com/mailcourses/technotrack-NN2021S-lectures/tree/master/Lect01);<br />[видеозапись](https://www.dropbox.com/s/fxijlfyvvn1s1cs/Lect01.mp4?dl=0) |
 | Семинар 1 | 10.03.2021 | Обсуждение ДЗ №1 и его особенностей. | [видеозапись](https://www.dropbox.com/s/vcfria8dy3hjmqp/Seminar01.mp4?dl=0) |
 | Лекция 2 | 11.03.2021 | От линейных моделей к нейронным сетям. Часть 2 | [материалы](https://github.com/mailcourses/technotrack-NN2021S-lectures/tree/master/Lect02);<br />[видеозапись](https://www.dropbox.com/s/n9diaoab1l3o2bm/Lect02.mp4?dl=0) |
+| Семинар 2 | 15.03.2021 | Вывод байесовской регрессии.<br />Инструменты разработки и исполнения кода: Google colab. | [видеозапись](https://www.dropbox.com/s/3km0hbu5pmmbfgi/Seminar02.mp4?dl=0) |
 
 
 ## Домашние задания
