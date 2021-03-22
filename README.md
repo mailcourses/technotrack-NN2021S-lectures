@@ -18,16 +18,18 @@
 | Title | Date | Topic | Content |
 | ----- | ---- | ----- | ------- |
 | Лекция 1 | 04.03.2021 | Вводная лекция.<br />От линейных моделей к нейронным сетям. Часть 1 | [материалы](https://github.com/mailcourses/technotrack-NN2021S-lectures/tree/master/Lect01);<br />[видеозапись](https://www.dropbox.com/s/fxijlfyvvn1s1cs/Lect01.mp4?dl=0) |
-| Семинар 1 | 10.03.2021 | Обсуждение ДЗ №1 и его особенностей. | [видеозапись](https://www.dropbox.com/s/vcfria8dy3hjmqp/Seminar01.mp4?dl=0) |
+| Семинар 1 | 10.03.2021 | Обсуждение [ДЗ №1](https://github.com/mailcourses/technotrack-NN2021S-lectures/tree/master/HW01) и его особенностей. | [видеозапись](https://www.dropbox.com/s/vcfria8dy3hjmqp/Seminar01.mp4?dl=0) |
 | Лекция 2 | 11.03.2021 | От линейных моделей к нейронным сетям. Часть 2 | [материалы](https://github.com/mailcourses/technotrack-NN2021S-lectures/tree/master/Lect02);<br />[видеозапись](https://www.dropbox.com/s/n9diaoab1l3o2bm/Lect02.mp4?dl=0) |
 | Семинар 2 | 15.03.2021 | Вывод байесовской регрессии.<br />Инструменты разработки и исполнения кода: Google colab. | [видеозапись](https://www.dropbox.com/s/3km0hbu5pmmbfgi/Seminar02.mp4?dl=0) |
 | Лекция 3 | 18.03.2021 | Оптимизация нейросетей. <br />Вычисление градиентов (backpropagation). | материалы - TBA;<br />[видеозапись](https://www.dropbox.com/s/vk18trf7gyfkbzu/Lect03.mp4?dl=0) |
+| Семинар 3 | 22.03.2021 | Типичные ошибки в ДЗ №1.<br />Разбор [ДЗ №2](https://github.com/mailcourses/technotrack-NN2021S-lectures/tree/master/HW02) и его особенностей | [материалы](https://github.com/mailcourses/technotrack-NN2021S-lectures/tree/master/Seminar03);<br />видеозапись - TBA |
 
 
 ## Домашние задания
 | Title | Date issued |  Deadline  | Topic | Content |
 | ----- | ----------- | ---------- | ----- | ------- |
 | ДЗ №1 | 10.03.2021  | 15.03.2021 | Градиентный спуск своими руками | [описание и данные](https://github.com/mailcourses/technotrack-NN2021S-lectures/tree/master/HW01) |
+| ДЗ №2 | 22.03.2021  | 05.04.2021 | Многослойный перцептрон своими руками | [описание](https://github.com/mailcourses/technotrack-NN2021S-lectures/tree/master/HW02) |
 
 
 ### Рекомендуемая литература
