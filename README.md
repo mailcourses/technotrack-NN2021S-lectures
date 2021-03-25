@@ -23,6 +23,7 @@
 | Семинар 2 | 15.03.2021 | Вывод байесовской регрессии.<br />Инструменты разработки и исполнения кода: Google colab. | [видеозапись](https://www.dropbox.com/s/3km0hbu5pmmbfgi/Seminar02.mp4?dl=0) |
 | Лекция 3 | 18.03.2021 | Оптимизация нейросетей. <br />Вычисление градиентов (backpropagation). | [материалы](https://github.com/mailcourses/technotrack-NN2021S-lectures/tree/master/Lect03);<br />[видеозапись](https://www.dropbox.com/s/vk18trf7gyfkbzu/Lect03.mp4?dl=0) |
 | Семинар 3 | 22.03.2021 | Типичные ошибки в ДЗ №1.<br />Разбор [ДЗ №2](https://github.com/mailcourses/technotrack-NN2021S-lectures/tree/master/HW02) и его особенностей | [материалы](https://github.com/mailcourses/technotrack-NN2021S-lectures/tree/master/Seminar03);<br />[Видеозапись](https://www.dropbox.com/s/uukdfxk6y3yjm4m/Seminar03.mp4?dl=0) |
+| Лекция 4 | 25.03.2021 | Оптимизация нейросетей. <br />Методы оптимизации: GD, SGD, Momentum, Nesterov momentum, RMSProp, Adam, Nadam. | материалы - TBA;<br />[видеозапись](https://www.dropbox.com/s/wen4y37h8rn9ov7/Lect04.mp4?dl=0) |
 
 
 ## Домашние задания
