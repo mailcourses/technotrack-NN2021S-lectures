@@ -17,14 +17,16 @@
 
 | Title | Date | Topic | Content |
 | ----- | ---- | ----- | ------- |
-| Лекция 1 | 04.03.2021 | Вводная лекция.<br />От линейных моделей к нейронным сетям. Часть 1 | [материалы](https://github.com/mailcourses/technotrack-NN2021S-lectures/tree/master/Lect01);<br />[видеозапись](https://www.dropbox.com/s/fxijlfyvvn1s1cs/Lect01.mp4?dl=0) |
-| Семинар 1 | 10.03.2021 | Обсуждение [ДЗ №1](https://github.com/mailcourses/technotrack-NN2021S-lectures/tree/master/HW01) и его особенностей. | [видеозапись](https://www.dropbox.com/s/vcfria8dy3hjmqp/Seminar01.mp4?dl=0) |
-| Лекция 2 | 11.03.2021 | От линейных моделей к нейронным сетям. Часть 2 | [материалы](https://github.com/mailcourses/technotrack-NN2021S-lectures/tree/master/Lect02);<br />[видеозапись](https://www.dropbox.com/s/n9diaoab1l3o2bm/Lect02.mp4?dl=0) |
-| Семинар 2 | 15.03.2021 | Вывод байесовской регрессии.<br />Инструменты разработки и исполнения кода: Google colab. | [видеозапись](https://www.dropbox.com/s/3km0hbu5pmmbfgi/Seminar02.mp4?dl=0) |
-| Лекция 3 | 18.03.2021 | Оптимизация нейросетей. <br />Вычисление градиентов (backpropagation). | [материалы](https://github.com/mailcourses/technotrack-NN2021S-lectures/tree/master/Lect03);<br />[видеозапись](https://www.dropbox.com/s/vk18trf7gyfkbzu/Lect03.mp4?dl=0) |
-| Семинар 3 | 22.03.2021 | Типичные ошибки в ДЗ №1.<br />Разбор [ДЗ №2](https://github.com/mailcourses/technotrack-NN2021S-lectures/tree/master/HW02) и его особенностей | [материалы](https://github.com/mailcourses/technotrack-NN2021S-lectures/tree/master/Seminar03);<br />[Видеозапись](https://www.dropbox.com/s/uukdfxk6y3yjm4m/Seminar03.mp4?dl=0) |
-| Лекция 4 | 25.03.2021 | Оптимизация нейросетей. <br />Методы оптимизации: GD, SGD, Momentum, Nesterov momentum, RMSProp, Adam, Nadam. | [материалы](https://github.com/mailcourses/technotrack-NN2021S-lectures/tree/master/Lect04);<br />[видеозапись](https://www.dropbox.com/s/wen4y37h8rn9ov7/Lect04.mp4?dl=0) |
-| Семинар 4 | 29.03.2021 | Дифференцирование Softmax, стабилизация вычисления Softmax, практика. | [Видеозапись](https://www.dropbox.com/s/ja7wctvtw3ka9k2/Seminar04.mp4?dl=0) |
+| Лекция 1 | 04.03.2021 | Вводная лекция.<br />От линейных моделей к нейронным сетям. Часть 1 | [материалы](https://github.com/mailcourses/technotrack-NN2021S-lectures/tree/master/Lect01);<br />[видеозапись](https://bit.ly/39z08Bo) |
+| Семинар 1 | 10.03.2021 | Обсуждение [ДЗ №1](https://github.com/mailcourses/technotrack-NN2021S-lectures/tree/master/HW01) и его особенностей. | [видеозапись](https://bit.ly/3fy8Gfq) |
+| Лекция 2 | 11.03.2021 | От линейных моделей к нейронным сетям. Часть 2 | [материалы](https://github.com/mailcourses/technotrack-NN2021S-lectures/tree/master/Lect02);<br />[видеозапись](https://bit.ly/2PLMOCs) |
+| Семинар 2 | 15.03.2021 | Вывод байесовской регрессии.<br />Инструменты разработки и исполнения кода: Google colab. | [видеозапись](https://bit.ly/3cHMZYD) |
+| Лекция 3 | 18.03.2021 | Оптимизация нейросетей. <br />Вычисление градиентов (backpropagation). | [материалы](https://github.com/mailcourses/technotrack-NN2021S-lectures/tree/master/Lect03);<br />[видеозапись](https://bit.ly/3mb0vXE) |
+| Семинар 3 | 22.03.2021 | Типичные ошибки в ДЗ №1.<br />Разбор [ДЗ №2](https://github.com/mailcourses/technotrack-NN2021S-lectures/tree/master/HW02) и его особенностей | [материалы](https://github.com/mailcourses/technotrack-NN2021S-lectures/tree/master/Seminar03);<br />[Видеозапись](https://bit.ly/2PPcPka) |
+| Лекция 4 | 25.03.2021 | Оптимизация нейросетей. <br />Методы оптимизации: GD, SGD, Momentum, Nesterov momentum, RMSProp, Adam, Nadam. | [материалы](https://github.com/mailcourses/technotrack-NN2021S-lectures/tree/master/Lect04);<br />[видеозапись](https://bit.ly/3fwp7ZB) |
+| Семинар 4 | 29.03.2021 | Дифференцирование Softmax, стабилизация вычисления Softmax, практика. | [Видеозапись](https://bit.ly/3fwoPSv) |
+| Лекция 5 | 01.04.2021 | Оптимизация нейросетей. <br />Инициализация. Пакетная нормализация (BatchNorm). | материалы - TBA;<br />[видеозапись](https://bit.ly/2R2CqHj) |
+
 
 
 ## Домашние задания
