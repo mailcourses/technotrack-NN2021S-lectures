@@ -24,8 +24,9 @@
 | Лекция 3 | 18.03.2021 | Оптимизация нейросетей. <br />Вычисление градиентов (backpropagation). | [материалы](https://github.com/mailcourses/technotrack-NN2021S-lectures/tree/master/Lect03);<br />[видеозапись](https://bit.ly/3mb0vXE) |
 | Семинар 3 | 22.03.2021 | Типичные ошибки в ДЗ №1.<br />Разбор [ДЗ №2](https://github.com/mailcourses/technotrack-NN2021S-lectures/tree/master/HW02) и его особенностей | [материалы](https://github.com/mailcourses/technotrack-NN2021S-lectures/tree/master/Seminar03);<br />[Видеозапись](https://bit.ly/2PPcPka) |
 | Лекция 4 | 25.03.2021 | Оптимизация нейросетей. <br />Методы оптимизации: GD, SGD, Momentum, Nesterov momentum, RMSProp, Adam, Nadam. | [материалы](https://github.com/mailcourses/technotrack-NN2021S-lectures/tree/master/Lect04);<br />[видеозапись](https://bit.ly/3fwp7ZB) |
-| Семинар 4 | 29.03.2021 | Дифференцирование Softmax, стабилизация вычисления Softmax, практика. | [Видеозапись](https://bit.ly/3fwoPSv) |
+| Семинар 4 | 29.03.2021 | Дифференцирование Softmax, стабилизация вычисления Softmax, практика. | [Видеозапись](https://bit.ly/3fwoPSv)<br />[материалы](https://github.com/mailcourses/technotrack-NN2021S-lectures/tree/master/Seminar04) |
 | Лекция 5 | 01.04.2021 | Оптимизация нейросетей. <br />Инициализация. Пакетная нормализация (BatchNorm). | материалы - TBA;<br />[видеозапись](https://bit.ly/2R2CqHj) |
+| Семинар 5 | 05.04.2021 | Дисперсия градиентов.<br />Разбор ДЗ №3 и его особенностей.<br />Средства мониторинга процесса оптимизации нейросетей. Tensorboard. | [Видеозапись](https://bit.ly/3dz2wJv)<br />[материалы](https://github.com/mailcourses/technotrack-NN2021S-lectures/tree/master/Seminar05) |
 
 
 
