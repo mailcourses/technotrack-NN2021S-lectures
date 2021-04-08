@@ -26,7 +26,7 @@
 | [(Bernstein and Sheldon, 2019) "Differentially Private Bayesian Linear Regression"](http://papers.nips.cc/paper/8343-differentially-private-bayesian-linear-regression) | - |
 | [(Defazio, 2019) "On the Curved Geometry of Accelerated Optimization"](http://papers.nips.cc/paper/8453-on-the-curved-geometry-of-accelerated-optimization) | - |
 | [(Defazio and Bottou, 2019) "On the Ineffectiveness of Variance Reduced Optimization for Deep Learning"](http://papers.nips.cc/paper/8452-on-the-ineffectiveness-of-variance-reduced-optimization-for-deep-learning) | - |
-| [(Dong and Yang, 2019) "Network Pruning via Transformable Architecture Search"](http://papers.nips.cc/paper/8364-network-pruning-via-transformable-architecture-search) | - |
+| [(Dong and Yang, 2019) "Network Pruning via Transformable Architecture Search"](http://papers.nips.cc/paper/8364-network-pruning-via-transformable-architecture-search) | Семён Матрёнок |
 | [(Gower et al., 2019) "RSN: Randomized Subspace Newton"](http://papers.nips.cc/paper/8351-rsn-randomized-subspace-newton) | - |
 | [(Hanin and Rolnick, 2019) "Deep ReLU Networks Have Surprisingly Few Activation Patterns"](http://papers.nips.cc/paper/8328-deep-relu-networks-have-surprisingly-few-activation-patterns) | Ильдар Хабутдинов |
 | [(He et al., 2019) "Control Batch Size and Learning Rate to Generalize Well: Theoretical and Empirical Evidence"](http://papers.nips.cc/paper/8398-control-batch-size-and-learning-rate-to-generalize-well-theoretical-and-empirical-evidence) | - |
