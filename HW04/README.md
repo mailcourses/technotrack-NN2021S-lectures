@@ -24,7 +24,7 @@
 | ----- | ---- |
 | [(Akrout et al., 2019) "Deep Learning without Weight Transport"](http://papers.nips.cc/paper/8383-deep-learning-without-weight-transport) | Игорь Щукин |
 | [(Bernstein and Sheldon, 2019) "Differentially Private Bayesian Linear Regression"](http://papers.nips.cc/paper/8343-differentially-private-bayesian-linear-regression) | Кирилл Власенков |
-| [(Defazio, 2019) "On the Curved Geometry of Accelerated Optimization"](http://papers.nips.cc/paper/8453-on-the-curved-geometry-of-accelerated-optimization) | - |
+| [(Defazio, 2019) "On the Curved Geometry of Accelerated Optimization"](http://papers.nips.cc/paper/8453-on-the-curved-geometry-of-accelerated-optimization) | Владислав Рябых |
 | [(Defazio and Bottou, 2019) "On the Ineffectiveness of Variance Reduced Optimization for Deep Learning"](http://papers.nips.cc/paper/8452-on-the-ineffectiveness-of-variance-reduced-optimization-for-deep-learning) | Валерия Щербакова |
 | [(Dong and Yang, 2019) "Network Pruning via Transformable Architecture Search"](http://papers.nips.cc/paper/8364-network-pruning-via-transformable-architecture-search) | Семён Матренок |
 | [(Gower et al., 2019) "RSN: Randomized Subspace Newton"](http://papers.nips.cc/paper/8351-rsn-randomized-subspace-newton) | - |
@@ -40,3 +40,4 @@
 | [(Nguyen et al., 2019) "First Exit Time Analysis of Stochastic Gradient Descent Under Heavy-Tailed Gradient Noise"](http://papers.nips.cc/paper/8320-first-exit-time-analysis-of-stochastic-gradient-descent-under-heavy-tailed-gradient-noise) | - |
 | [(Vladymyrov, 2019) "No Pressure! Addressing the Problem of Local Minima in Manifold Learning Algorithms"](http://papers.nips.cc/paper/8357-no-pressure-addressing-the-problem-of-local-minima-in-manifold-learning-algorithms) | Максим Патрацкий |
 | [(Wu et al., 2019) "Stochastic Shared Embeddings: Data-driven Regularization of Embedding Layers"](http://papers.nips.cc/paper/8298-stochastic-shared-embeddings-data-driven-regularization-of-embedding-layers) | Денис Потапов |
+| [(Aaron Defazio and Samy Jelassi, 2021) "Adaptivity without Compromise: A Momentumized, Adaptive, Dual Averaged Gradient Method for Stochastic Optimization"](https://arxiv.org/abs/2101.11075v2) | - |
