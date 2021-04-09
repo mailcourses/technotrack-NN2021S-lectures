@@ -42,3 +42,4 @@
 | [(Wu et al., 2019) "Stochastic Shared Embeddings: Data-driven Regularization of Embedding Layers"](http://papers.nips.cc/paper/8298-stochastic-shared-embeddings-data-driven-regularization-of-embedding-layers) | Денис Потапов |
 | [(Aaron Defazio and Samy Jelassi, 2021) "Adaptivity without Compromise: A Momentumized, Adaptive, Dual Averaged Gradient Method for Stochastic Optimization"](https://arxiv.org/abs/2101.11075v2) | Булат Шелхонов |
 | [(Zhuang et al., 2020) "AdaBelief Optimizer: Adapting Stepsizes by the Belief in Observed Gradients"](https://arxiv.org/abs/2010.07468) | - |
+| [(Dariush Bahrami and Sadegh Pouriyan Zadeh, 2021) "Gravity Optimizer: a Kinematic Approach on Optimization in Deep Learning"](https://arxiv.org/abs/2101.09192v1) | - |
