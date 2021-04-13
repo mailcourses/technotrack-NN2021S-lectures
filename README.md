@@ -28,6 +28,7 @@
 | Лекция 5 | 01.04.2021 | Оптимизация нейросетей. <br />Инициализация. Пакетная нормализация (BatchNorm). | материалы - TBA;<br />[видеозапись](https://bit.ly/2R2CqHj) |
 | Семинар 5 | 05.04.2021 | Дисперсия градиентов.<br />Разбор ДЗ №3 и его особенностей.<br />Средства мониторинга процесса оптимизации нейросетей. Tensorboard. | [Видеозапись](https://bit.ly/3dz2wJv)<br />[материалы](https://github.com/mailcourses/technotrack-NN2021S-lectures/tree/master/Seminar05) |
 | Лекция 6 | 08.04.2021 | Функции активации и прореживание сети (Dropout). <br />Свёрточные нейронные сети. | [материалы](https://github.com/mailcourses/technotrack-NN2021S-lectures/tree/master/Lect06);<br />[видеозапись](https://bit.ly/3fVaShm) |
+| Семинар 6 | 12.04.2021 | Практика. Операция свёртки своими руками. | [материалы](https://github.com/mailcourses/technotrack-NN2021S-lectures/tree/master/Seminar06);<br />[видеозапись](https://bit.ly/3wObUBT) |
 
 
 
