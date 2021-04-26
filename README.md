@@ -32,6 +32,7 @@
 | Лекция 7 | 15.04.2021 | Свёрточные нейронные сети: модификации операции свёртки и обзор архитектур. | [материалы](https://github.com/mailcourses/technotrack-NN2021S-lectures/tree/master/Lect07);<br />[видеозапись](https://bit.ly/3e4h6sA) |
 | Семинар 7 | 19.04.2021 | Градиент сверточной операции;<br />анонс [kaggle-соревнования](https://github.com/mailcourses/technotrack-NN2021S-lectures/tree/master/kaggle);<br />Технические аспекты подхода Transfer Learning | [материалы](https://github.com/mailcourses/technotrack-NN2021S-lectures/tree/master/Seminar07);<br />[видеозапись](https://bit.ly/3n2eDD8) |
 | Лекция 8 | 24.04.2021 | Свёрточные нейронные сети<br />визуализация признаков и интерпретация вывода. | [материалы - TBA];<br />[видеозапись](https://bit.ly/3enUCD6) |
+| Семинар 8 | 26.04.2021 | Искусственное дополнение данных (аугментация, data augmentation)<br />Организация поставки данных для обучения и валидации.<br />Ускорение предобработки и поставки данных. | [видеозапись](https://bit.ly/3nl1zcc) |
 
 
 
