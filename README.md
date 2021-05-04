@@ -44,7 +44,8 @@
 | ДЗ №2 | 22.03.2021  | 05.04.2021 | Многослойный перцептрон своими руками | [описание](https://github.com/mailcourses/technotrack-NN2021S-lectures/tree/master/HW02) |
 | ДЗ №3 | 05.04.2021  | 15.04.2021 | Многослойный перцептрон на Pytorch. | [описание](https://github.com/mailcourses/technotrack-NN2021S-lectures/tree/master/HW03) |
 | ДЗ №4 | 08.04.2021  | 15.04.2021 | Обзор статьи по глубокому обучению. | [описание](https://github.com/mailcourses/technotrack-NN2021S-lectures/tree/master/HW04) |
-| ДЗ №5 | 19.04.2021  | 06.05.2021 | Kaggle-соревнование | [описание](https://github.com/mailcourses/technotrack-NN2021S-lectures/tree/master/kaggle)<br />[leaderboard](https://github.com/mailcourses/technotrack-NN2021S-lectures/blob/main/kaggle/leaderboard.md) |
+| ДЗ №5 | 19.04.2021  | 06.05.2021<br />(updated) 17.05.2021 | Kaggle-соревнование | [описание](https://github.com/mailcourses/technotrack-NN2021S-lectures/tree/master/kaggle)<br />[leaderboard](https://github.com/mailcourses/technotrack-NN2021S-lectures/blob/main/kaggle/leaderboard.md) |
+| ДЗ №6 | 05.05.2021 | 13.05.2021 | Автокодировщики для идентификации аномалий | [описание](https://github.com/mailcourses/technotrack-NN2021S-lectures/tree/master/HW06) |
 
 
 ### Рекомендуемая литература
