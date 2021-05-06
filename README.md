@@ -34,6 +34,8 @@
 | Лекция 8 | 24.04.2021 | Свёрточные нейронные сети<br />визуализация признаков и интерпретация вывода. | [материалы - TBA];<br />[видеозапись](https://bit.ly/3enUCD6) |
 | Семинар 8 | 26.04.2021 | Искусственное дополнение данных (аугментация, data augmentation)<br />Организация поставки данных для обучения и валидации.<br />Ускорение предобработки и поставки данных. | [материалы](https://github.com/mailcourses/technotrack-NN2021S-lectures/tree/master/Seminar08);<br />[видеозапись](https://bit.ly/3nl1zcc) |
 | Лекция 9 | 29.04.2021 | Снижение размерности и автокодировщики | [материалы](https://github.com/mailcourses/technotrack-NN2021S-lectures/tree/main/Lect09);<br />[видеозапись](https://bit.ly/3eWBf4v) |
+| Семинар 9 | 05.05.2021 | Свёрточный автокодировщик в коде. ДЗ №6. Adversarial examples на Pytorch. | материалы - TBA;<br />[видеозапись](https://bit.ly/3b4aPfZ) |
+
 
 
 
