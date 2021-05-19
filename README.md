@@ -37,7 +37,7 @@
 | Семинар 9 | 05.05.2021 | Свёрточный автокодировщик в коде. ДЗ №6. Adversarial examples на Pytorch. | материалы - TBA;<br />[видеозапись](https://bit.ly/3b4aPfZ) |
 | Лекция 10 | 06.05.2021 | Автокодировщики: разреженный, вариационный;<br />Задача сегментации. U-net. | [материалы](https://github.com/mailcourses/technotrack-NN2021S-lectures/tree/main/Lect10);<br />[видеозапись](https://bit.ly/3o6tGw2) |
 | Лекция 11 | 13.05.2021 | Задача выучивания метрики (Metric learning) | [материалы](https://github.com/mailcourses/technotrack-NN2021S-lectures/tree/main/Lect11);<br />[видеозапись](https://bit.ly/3uOimaq) |
-| Семинар 10 | 17.05.2021 | Вывод регуляризации для VAE; VAE в коде;<br />обсуждение потенциальных тем проектов | [материалы](https://github.com/mailcourses/technotrack-NN2021S-lectures/tree/main/Seminar10);<br />[видеозапись]() |
+| Семинар 10 | 17.05.2021 | KL-дивергенция: связь с перекрестной энтропией и информационной энтропией<br />Вывод регуляризации для VAE; VAE в коде;<br />обсуждение потенциальных тем проектов | [материалы](https://github.com/mailcourses/technotrack-NN2021S-lectures/tree/main/Seminar10);<br />[видеозапись](https://bit.ly/33YDj6W) |
 
 
 
