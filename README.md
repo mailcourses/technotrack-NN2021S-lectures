@@ -39,6 +39,7 @@
 | Лекция 11 | 13.05.2021 | Задача выучивания метрики (Metric learning) | [материалы](https://github.com/mailcourses/technotrack-NN2021S-lectures/tree/main/Lect11);<br />[видеозапись](https://bit.ly/3uOimaq) |
 | Семинар 10 | 17.05.2021 | KL-дивергенция: связь с перекрестной энтропией и информационной энтропией<br />Вывод регуляризации для VAE; VAE в коде;<br />обсуждение потенциальных тем проектов | [материалы](https://github.com/mailcourses/technotrack-NN2021S-lectures/tree/main/Seminar10);<br />[видеозапись](https://bit.ly/33YDj6W) |
 | Лекция 12 | 20.05.2021 | Порождающие состязательные сети (Generative Adversarial Networks, GAN); Wasserstein GAN. | [материалы](https://github.com/mailcourses/technotrack-NN2021S-lectures/tree/main/Lect12);<br>[видеозапись](https://bit.ly/3vjM8ny) |
+| Семинар 11 | 24.05.2021 | Презентация [ДЗ №7](https://github.com/mailcourses/technotrack-NN2021S-lectures/tree/master/HW07) и предлагаемых способов его решения;<br>[Скетч кода](https://github.com/mailcourses/technotrack-NN2021S-lectures/blob/main/Seminar11/wgan-pytorch.ipynb) обучения WGAN. | [материалы](https://github.com/mailcourses/technotrack-NN2021S-lectures/tree/main/Seminar11);<br />[видеозапись](https://bit.ly/2TjSeGG) |
 
 
 
@@ -52,7 +53,7 @@
 | ДЗ №5 | 19.04.2021  | 06.05.2021<br />(updated) 17.05.2021 | Kaggle-соревнование | [описание](https://github.com/mailcourses/technotrack-NN2021S-lectures/tree/master/kaggle)<br />[leaderboard](https://github.com/mailcourses/technotrack-NN2021S-lectures/blob/main/kaggle/leaderboard.md) |
 | ДЗ №6 | 05.05.2021 | 13.05.2021 | Автокодировщики для идентификации аномалий | [описание](https://github.com/mailcourses/technotrack-NN2021S-lectures/tree/master/HW06) |
 | ДЗ №7 | 24.05.2021 | 07.06.2021 | Идентификация аномалий с использованием WGAN | [описание](https://github.com/mailcourses/technotrack-NN2021S-lectures/tree/master/HW07) |
-| Проекты |  | 17.06.2021 |  | [summary](https://github.com/mailcourses/technotrack-NN2021S-lectures/tree/master/projects) |
+| Проекты |  | 17.06.2021 |  | [summary](https://github.com/mailcourses/technotrack-NN2021S-lectures/tree/master/projects);<br>[Обсуждение тем - 1](https://bit.ly/3bVHapG);<br>[Обсуждение тем - 2](https://bit.ly/2QWNqWU) |
 
 
 ### Рекомендуемая литература
