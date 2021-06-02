@@ -40,6 +40,7 @@
 | Семинар 10 | 17.05.2021 | KL-дивергенция: связь с перекрестной энтропией и информационной энтропией<br />Вывод регуляризации для VAE; VAE в коде;<br />обсуждение потенциальных тем проектов | [материалы](https://github.com/mailcourses/technotrack-NN2021S-lectures/tree/main/Seminar10);<br />[видеозапись](https://bit.ly/33YDj6W) |
 | Лекция 12 | 20.05.2021 | Порождающие состязательные сети (Generative Adversarial Networks, GAN); Wasserstein GAN. | [материалы](https://github.com/mailcourses/technotrack-NN2021S-lectures/tree/main/Lect12);<br>[видеозапись](https://bit.ly/3vjM8ny) |
 | Семинар 11 | 24.05.2021 | Презентация [ДЗ №7](https://github.com/mailcourses/technotrack-NN2021S-lectures/tree/master/HW07) и предлагаемых способов его решения;<br>[Скетч кода](https://github.com/mailcourses/technotrack-NN2021S-lectures/blob/main/Seminar11/wgan-pytorch.ipynb) обучения WGAN. | [материалы](https://github.com/mailcourses/technotrack-NN2021S-lectures/tree/main/Seminar11);<br />[видеозапись](https://bit.ly/2TjSeGG) |
+| Лекция 13 | 27.05.2021 | GAN-ы: задачи Image2Image translation; CycleGAN и его особенности;<br />MUNIT и идея разделения векторов на style и content;<br />StyleGAN и его основные идеи. | [видеозапись](https://bit.ly/34F5p7g) |
 
 
 
