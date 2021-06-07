@@ -42,6 +42,9 @@
 | Семинар 11 | 24.05.2021 | Презентация [ДЗ №7](https://github.com/mailcourses/technotrack-NN2021S-lectures/tree/master/HW07) и предлагаемых способов его решения;<br>[Скетч кода](https://github.com/mailcourses/technotrack-NN2021S-lectures/blob/main/Seminar11/wgan-pytorch.ipynb) обучения WGAN. | [материалы](https://github.com/mailcourses/technotrack-NN2021S-lectures/tree/main/Seminar11);<br />[видеозапись](https://bit.ly/2TjSeGG) |
 | Лекция 13 | 27.05.2021 | GAN-ы: задачи Image2Image translation; CycleGAN и его особенности;<br />MUNIT и идея разделения векторов на style и content;<br />StyleGAN и его основные идеи. | [материалы](https://github.com/mailcourses/technotrack-NN2021S-lectures/tree/main/Lect13);<br />[видеозапись](https://bit.ly/34F5p7g) |
 | Семинар 12 | 31.05.2021 | О двойственности Канторовича-Рубинштейна | [видеозапись](https://bit.ly/3uEOEDW) |
+| Лекция 14 | 03.06.2021 | Проблема игнорирования шума генератором.<br />StyleGAN: AdaIN, Crossing-over и другие идеи в его основе. | [видеозапись](https://bit.ly/3pqPqUb) |
+
+
 
 
 
