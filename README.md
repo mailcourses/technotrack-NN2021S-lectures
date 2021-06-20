@@ -43,6 +43,7 @@
 | Лекция 13 | 27.05.2021 | GAN-ы: задачи Image2Image translation; CycleGAN и его особенности;<br />MUNIT и идея разделения векторов на style и content;<br />StyleGAN и его основные идеи. | [материалы](https://github.com/mailcourses/technotrack-NN2021S-lectures/tree/main/Lect13);<br />[видеозапись](https://bit.ly/34F5p7g) |
 | Семинар 12 | 31.05.2021 | О двойственности Канторовича-Рубинштейна | [видеозапись](https://bit.ly/3uEOEDW) |
 | Лекция 14 | 03.06.2021 | Проблема игнорирования шума генератором.<br />StyleGAN: AdaIN, Crossing-over и другие идеи в его основе. | [видеозапись](https://bit.ly/3pqPqUb) |
+| Семинар 13 | 07.06.2021 | Обсуждение проектов | [видеозапись](https://bit.ly/3xEBCZ7) |
 | Лекция 15 | 10.06.2021 | Обработка последовательностей.<br />Рекуррентные нейронные сети. | [материалы](https://github.com/mailcourses/technotrack-NN2021S-lectures/tree/main/Lect15)<br />[видеозапись](https://bit.ly/3vJscKe) |
 
 
