@@ -45,6 +45,7 @@
 | Лекция 14 | 03.06.2021 | Проблема игнорирования шума генератором.<br />StyleGAN: AdaIN, Crossing-over и другие идеи в его основе. | [материалы](https://github.com/mailcourses/technotrack-NN2021S-lectures/tree/main/Lect14)<br />[видеозапись](https://bit.ly/3pqPqUb) |
 | Семинар 13 | 07.06.2021 | Обсуждение проектов | [видеозапись](https://bit.ly/3xEBCZ7) |
 | Лекция 15 | 10.06.2021 | Обработка последовательностей.<br />Рекуррентные нейронные сети. | [материалы](https://github.com/mailcourses/technotrack-NN2021S-lectures/tree/main/Lect15)<br />[видеозапись](https://bit.ly/3vJscKe) |
+| Лекция 16 | 21.06.2021 | Обработка последовательностей: LSTM<br />Механизм внимания (attention), позиционное кодирование. Трансформер. | [видеозапись](https://bit.ly/2SmLV4V) |
 
 
 
@@ -60,7 +61,7 @@
 | ДЗ №5 | 19.04.2021  | 06.05.2021<br />(updated) 17.05.2021 | Kaggle-соревнование | [описание](https://github.com/mailcourses/technotrack-NN2021S-lectures/tree/master/kaggle)<br />[leaderboard](https://github.com/mailcourses/technotrack-NN2021S-lectures/blob/main/kaggle/leaderboard.md) |
 | ДЗ №6 | 05.05.2021 | 13.05.2021 | Автокодировщики для идентификации аномалий | [описание](https://github.com/mailcourses/technotrack-NN2021S-lectures/tree/master/HW06) |
 | ДЗ №7 | 24.05.2021 | 14.06.2021 | Идентификация аномалий с использованием WGAN | [описание](https://github.com/mailcourses/technotrack-NN2021S-lectures/tree/master/HW07) |
-| Проекты |  | 17.06.2021 |  | [summary](https://github.com/mailcourses/technotrack-NN2021S-lectures/tree/master/projects);<br>[Обсуждение тем - 1](https://bit.ly/3bVHapG);<br>[Обсуждение тем - 2](https://bit.ly/2QWNqWU) |
+| Проекты |  | 28.06.2021 |  | [summary](https://github.com/mailcourses/technotrack-NN2021S-lectures/tree/master/projects);<br>[Обсуждение тем - 1](https://bit.ly/3bVHapG);<br>[Обсуждение тем - 2](https://bit.ly/2QWNqWU) |
 
 
 ### Рекомендуемая литература
